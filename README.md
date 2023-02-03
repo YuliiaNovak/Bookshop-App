@@ -3,6 +3,7 @@
 I used Redux, React, CSS modules and Firebase to create this application
 
 In the Bookshop app you can: 
+ 
   ■ add books to a cart
   
   ■ manage the cart
